@@ -1,0 +1,7 @@
+THIS_APP_URL: ":8080"
+
+LOGGER:
+  PRODUCTION: "production"
+  DEVELOPMENT: "development"
+
+PATH: "."
